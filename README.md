@@ -329,24 +329,25 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SNAKE ANIMATION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SNAKE ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
+  <!-- Dark mode: uses the dark-themed SVG when the user has dark mode enabled -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake-dark.svg">
+  
+  <!-- Light mode: uses the standard green SVG for light mode users -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
+  
+  <!-- Fallback img tag in case the browser doesn't support the picture element -->
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/ThurubilliSaiManoj2026/ThurubilliSaiManoj2026/output/github-snake.svg">
 </picture>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER BANNER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer)
