@@ -10,7 +10,7 @@
 <!--                   TYPING ANIMATION                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Multi-Agent+AI+Systems+%26+RAG+Pipelines;LLMs+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+NLP;Production+AI+%7C+FastAPI+%7C+LangGraph+%7C+PyTorch;Woxsen+University+%C2%B7+B.Tech+AIML+%C2%B7+Graduating+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Multi-Agent+AI+Systems+%26+RAG+Pipelines;LLMs+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+NLP;Production+AI+%7C+FastAPI+%7C+LangGraph+%7C+PyTorch)](https://git.io/typing-svg)
 
 <br/>
 
@@ -39,7 +39,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 - 🔭 Building with **LangGraph**, **LLaMA 3.3 70B**, **FastAPI**, **ChromaDB**, **PyTorch**
 - 💡 Believer in **explainable AI**, **clean code**, and **production-first engineering**
 - 🌍 Based in **India** · Open to **full-time roles** and **collaborations**
-- 📞 **+91 90634 40759** · 📧 saimanoturubilli@gmail.com
 
 <br clear="right"/>
 
