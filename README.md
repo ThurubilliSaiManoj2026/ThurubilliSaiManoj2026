@@ -30,7 +30,7 @@
 
 <img align="right" alt="AI Coding" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on building production ready intelligent systems. My work spans from **probabilistic AI content detection** and **multi-agent automation pipelines** to **edge AI vision systems** and **RAG-based enterprise assistants**.
+I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on building production-ready intelligent systems. My work spans from **probabilistic AI content detection** and **multi-agent automation pipelines** to **edge AI vision systems** and **RAG-based enterprise assistants**.
 
 - 🎓 **B.Tech (AI/ML)** — Completed April 2026
 - 🤖 Passionate about **real-world AI applications** and **data-driven systems**
@@ -49,7 +49,7 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 🖥️ Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -102,59 +102,9 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 ## 🚀 Featured Projects
 
 <table>
+
+  <!-- ── Row 1 ─────────────────────────────────────────────── -->
   <tr>
-    <td width="50%" valign="top">
-
-### 🔍 [AI Content Detection Platform](https://github.com/ThurubilliSaiManoj2026/AI-Content-Detection-Platform)
-
-> Probabilistic detection of AI-generated **text, images, and videos** using ensemble statistical models and deep feature analysis.
-
-**Tech:** `Python` `Deep Learning` `Computer Vision` `NLP` `FastAPI`
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🤖 [Service Pilot — Multi-Agent ITIL Automation](https://github.com/ThurubilliSaiManoj2026/service-pilot)
-
-> Multi-agent ITIL process automation using **LangGraph**, **BGE Semantic Search**, **LLaMA 3.3 70B**, **ChromaDB**, and a **React** frontend.
-
-**Tech:** `LangGraph` `LLaMA 3.3` `ChromaDB` `FastAPI` `React`
-
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📊 [Image to Spreadsheet OCR](https://github.com/ThurubilliSaiManoj2026/image-to-spreadsheet-ocr)
-
-> End-to-end pipeline for **image-to-spreadsheet conversion** using OCR, table detection, and multiple deep learning models. Includes **Flask API** and a full web UI.
-
-**Tech:** `Python` `OCR` `Deep Learning` `Flask` `OpenCV`
-
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![OCR](https://img.shields.io/badge/-OCR-FF6F00?style=flat)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📹 [Edge AI Multi-Camera Vision](https://github.com/ThurubilliSaiManoj2026/edge-ai-multicamera-vision)
-
-> Real-time multi-camera vision system designed for **edge deployment**, combining lightweight inference with high-throughput video stream processing.
-
-**Tech:** `Edge AI` `Computer Vision` `Shell` `OpenCV`
-
-![Edge AI](https://img.shields.io/badge/-Edge%20AI-0078D4?style=flat)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-</td>
     <td width="50%" valign="top">
 
 ### 🌐 [Code Guru India — Multilingual AI Tutor](https://github.com/ThurubilliSaiManoj2026/Code-Guru-India)
@@ -167,9 +117,65 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 ![Multilingual](https://img.shields.io/badge/-Multilingual-FF4B4B?style=flat)
 
 </td>
+    <td width="50%" valign="top">
+
+### 🔎 [AI Content Detection Platform](https://github.com/ThurubilliSaiManoj2026/AI-Content-Detection-Platform)
+
+> Probabilistic detection of AI-generated **text, images, and videos** using ensemble statistical models and deep feature analysis.
+
+**Tech:** `Python` `Deep Learning` `Computer Vision` `NLP` `FastAPI`
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+</td>
   </tr>
+
+  <!-- ── Row 2 ─────────────────────────────────────────────── -->
   <tr>
     <td width="50%" valign="top">
+
+### 🦾 [Service Pilot — Multi-Agent ITIL Automation](https://github.com/ThurubilliSaiManoj2026/service-pilot)
+
+> Multi-agent ITIL process automation using **LangGraph**, **BGE Semantic Search**, **LLaMA 3.3 70B**, **ChromaDB**, and a **React** frontend.
+
+**Tech:** `LangGraph` `LLaMA 3.3` `ChromaDB` `FastAPI` `React`
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</td>
+    <td width="50%" valign="top">
+
+### 📈 [Image to Spreadsheet OCR](https://github.com/ThurubilliSaiManoj2026/image-to-spreadsheet-ocr)
+
+> End-to-end pipeline for **image-to-spreadsheet conversion** using OCR, table detection, and multiple deep learning models. Includes **Flask API** and a full web UI.
+
+**Tech:** `Python` `OCR` `Deep Learning` `Flask` `OpenCV`
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![OCR](https://img.shields.io/badge/-OCR-FF6F00?style=flat)
+
+</td>
+  </tr>
+
+  <!-- ── Row 3 ─────────────────────────────────────────────── -->
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🎯 [Edge AI Multi-Camera Vision](https://github.com/ThurubilliSaiManoj2026/edge-ai-multicamera-vision)
+
+> Real-time multi-camera vision system designed for **edge deployment**, combining lightweight inference with high-throughput video stream processing.
+
+**Tech:** `Edge AI` `Computer Vision` `Shell` `OpenCV`
+
+![Edge AI](https://img.shields.io/badge/-Edge%20AI-0078D4?style=flat)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+</td>
+  </tr>
+
+</table>
 
 ---
 
@@ -200,6 +206,14 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 
 </div>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              ACHIEVEMENTS & HIGHLIGHTS                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Highlights
+
 **🎓 Academic**
 - B.Tech in Artificial Intelligence & Machine Learning — Completed **March 2026**
 - Specialized coursework in Deep Learning, NLP, Computer Vision, Data Structures & Algorithms, and Software Engineering
@@ -219,7 +233,7 @@ I am an **AI/ML Engineer and Full Stack Developer** with a deep focus on buildin
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 CURRENTLY LEARNING                         -->
+<!--                 CURRENTLY EXPLORING                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🌱 Currently Exploring
