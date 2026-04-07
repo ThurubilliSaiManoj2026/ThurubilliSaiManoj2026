@@ -34,7 +34,7 @@
 I am an **AI/ML Engineer and Full Stack Developer** specializing in production ready intelligent systems. My work spans **multi-agent LLM orchestration**, **RAG architectures**, **computer vision pipelines**, and **full-stack web applications** — built with a focus on real-world impact, clean architecture, and measurable outcomes.
 
 - 🎓 **B.Tech CSE (AIML)** · Woxsen University · CGPA: **7.9 / 10.0**
-- 📅 Batch -- **2022 - 2026**
+- 📅 Batch: **2022 - 2026**
 - 🤖 Core focus: **Generative AI**, **LLMs**, **Deep Learning**, **Computer Vision**
 - 🔭 Building with **LangGraph**, **LLaMA 3.3 70B**, **FastAPI**, **ChromaDB**, **PyTorch**
 - 💡 Believer in **explainable AI**, **clean code**, and **production-first engineering**
@@ -323,7 +323,7 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 
 <br/>
 
-> *"The best way to predict the future is to build it — one model at a time."*
+*"The best way to predict the future is to build it — one model at a time."*
 
 </div>
 
