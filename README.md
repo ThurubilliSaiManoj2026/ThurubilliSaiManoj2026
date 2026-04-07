@@ -31,14 +31,14 @@
 
 <img align="right" alt="AI Developer" width="330" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-I am an **AI/ML Engineer and Full Stack Developer** specializing in production-ready intelligent systems. My work spans **multi-agent LLM orchestration**, **RAG architectures**, **computer vision pipelines**, and **full-stack web applications** — built with a focus on real-world impact, clean architecture, and measurable outcomes.
+I am an **AI/ML Engineer and Full Stack Developer** specializing in production ready intelligent systems. My work spans **multi-agent LLM orchestration**, **RAG architectures**, **computer vision pipelines**, and **full-stack web applications** — built with a focus on real-world impact, clean architecture, and measurable outcomes.
 
 - 🎓 **B.Tech CSE (AIML)** · Woxsen University · CGPA: **7.9 / 10.0**
-- 📅 Degree Completion: **April 2026** · Convocation: **July 2026**
+- 📅 Degree Completion: **April 2026**
 - 🤖 Core focus: **Generative AI**, **LLMs**, **Deep Learning**, **Computer Vision**
 - 🔭 Building with **LangGraph**, **LLaMA 3.3 70B**, **FastAPI**, **ChromaDB**, **PyTorch**
 - 💡 Believer in **explainable AI**, **clean code**, and **production-first engineering**
-- 🌍 Based in **Hyderabad, Telangana** · Open to **full-time roles** and **collaborations**
+- 🌍 Based in **India** · Open to **full-time roles** and **collaborations**
 - 📞 **+91 90634 40759** · 📧 saimanoturubilli@gmail.com
 
 <br clear="right"/>
@@ -193,22 +193,6 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production-r
 </td>
     <td width="50%" valign="top">
 
-### 🏛️ [Enterprise JARVIS — RAG AI Assistant](https://github.com/ThurubilliSaiManoj2026/enterprise-jarvis-rag-ai)
-
-> Enterprise-grade AI assistant built on a **self-hosted LLaMA** backend with **Pinecone vector database** and a full **RAG architecture** for accurate, context-aware document question-answering across large enterprise knowledge bases.
-
-**Tech:** `LLaMA` `Pinecone` `RAG` `FastAPI` `Python` `Vector Search`
-
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</td>
-  </tr>
-
-  <!-- ── Row 3 ─────────────────────────────────────────────── -->
-  <tr>
-    <td width="50%" valign="top">
-
 ### 📈 [Image to Spreadsheet OCR](https://github.com/ThurubilliSaiManoj2026/image-to-spreadsheet-ocr)
 
 > End-to-end Computer Vision pipeline converting printed and handwritten table images into structured, editable spreadsheet data. Achieves **88% cell-level OCR accuracy** on 200+ diverse table images with **5-second end-to-end processing time**. Includes Flask API and interactive web UI with multi-format export (CSV/Excel/JSON).
@@ -279,7 +263,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production-r
 ## 🏆 Achievements & Highlights
 
 **🎓 Academic**
-- B.Tech in Computer Science Engineering (AI/ML Specialization) · Woxsen University · CGPA **7.9 / 10.0**
+- B.Tech in Computer Science Engineering (AI/ML Specialization) · Woxsen University
 - Specialized coursework in Deep Learning, NLP, Computer Vision, Data Structures & Algorithms, and Software Engineering
 
 **🤖 AI / ML Accomplishments**
