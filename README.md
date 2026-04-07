@@ -15,7 +15,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thurubilli--sai--manoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thurubilli-sai-manoj-96012b31a)
-[![Email](https://img.shields.io/badge/Email-saimanoturubilli%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanoturubilli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-saimanoturubilli%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanoturubilli@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ThurubilliSaiManoj2026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThurubilliSaiManoj2026)
 [![Profile Views](https://komarev.com/ghpvc/?username=ThurubilliSaiManoj2026&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/ThurubilliSaiManoj2026)
 
@@ -300,7 +300,7 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thurubilli-sai-manoj-96012b31a)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanoturubilli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanoturubilli@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThurubilliSaiManoj2026)
 
 <br/>
