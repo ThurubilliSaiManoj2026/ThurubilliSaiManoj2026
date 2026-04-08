@@ -192,7 +192,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -259,7 +259,7 @@ I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Rese
 
 ---
 
-## 📊 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
