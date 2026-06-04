@@ -4,7 +4,7 @@
 <!--                      HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Thurubilli%20Sai%20Manoj&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20&%20AI%20Engineer%20%40%20AAVIL%20Inc&descAlignY=58&descColor=c9d1d9&descSize=21)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Thurubilli%20Sai%20Manoj&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20and%20AI%20Engineer%20%40%20AAVIL%20Inc&descAlignY=58&descColor=c9d1d9&descSize=21)
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                         -->
