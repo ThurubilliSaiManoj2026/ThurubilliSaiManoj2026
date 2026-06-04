@@ -4,7 +4,7 @@
 <!--                      HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Thurubilli%20Sai%20Manoj&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=c9d1d9&descSize=21)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Thurubilli%20Sai%20Manoj&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20%26%20AI%20Engineer%20%40%20AAVIL%20Inc&descAlignY=58&descColor=c9d1d9&descSize=21)
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                         -->
@@ -27,14 +27,14 @@
 
 <img align="right" alt="AI Developer" width="330" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-I am an **AI/ML Engineer and Full Stack Developer** specializing in production ready intelligent systems. My work spans **multi-agent LLM orchestration**, **RAG architectures**, **computer vision pipelines**, and **full-stack web applications** — built with a focus on real-world impact, clean architecture, and measurable outcomes.
+I am a **Junior Full Stack & AI Engineer at AAVIL Inc**, specializing in production ready intelligent systems. My work spans **multi-agent LLM orchestration**, **RAG architectures**, **computer vision pipelines**, and **full-stack web applications** — built with a focus on real-world impact, clean architecture, and measurable outcomes.
 
-- 🎓 **B.Tech CSE (AIML)** · Woxsen University · CGPA: **7.9 / 10.0**
+- 🎓 **B.Tech CSE (AIML)** · Woxsen University · CGPA: **2.90 / 4.0**
 - 📅 Batch: **2022 - 2026**
 - 🤖 Core focus: **Generative AI**, **LLMs**, **Deep Learning**, **Computer Vision**
 - 🔭 Building with **LangGraph**, **LLaMA 3.3 70B**, **FastAPI**, **ChromaDB**, **PyTorch**
 - 💡 Believer in **explainable AI**, **clean code**, and **production-first engineering**
-- 🌍 Based in **India** · Open to **full-time roles** and **collaborations**
+- 🌍 Based in **India** · **Junior Full Stack & AI Engineer @ AAVIL Inc** · Open to **collaborations**
 
 <br clear="right"/>
 
@@ -243,7 +243,7 @@ I am an **AI/ML Engineer and Full Stack Developer** specializing in production r
 
 <div align="center">
 
-I am actively looking for **AI/ML Engineer**, **Software Developer**, and **Research roles** — open to full-time positions, internships, and project collaborations.
+Currently working as a **Junior Full Stack & AI Engineer @ AAVIL Inc** — open to interesting **collaborations**, **open-source contributions**, and **research opportunities**.
 
 <br/>
 
