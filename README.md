@@ -15,7 +15,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thurubilli--sai--manoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thurubilli-sai-manoj-96012b31a)
-[![Gmail](https://img.shields.io/badge/Gmail-saimanoturubilli%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanoturubilli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-saimanojturubilli%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimanojturubilli@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ThurubilliSaiManoj2026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThurubilliSaiManoj2026)
 [![Profile Views](https://komarev.com/ghpvc/?username=ThurubilliSaiManoj2026&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/ThurubilliSaiManoj2026)
 
